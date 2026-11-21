@@ -10,5 +10,7 @@ runs/
 failures/
 data/*
 !data/.gitkeep
+!data/idd/
+!data/idd/**
 models/*
 !models/.gitkeep
